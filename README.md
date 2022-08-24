@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tan-Tran
+- 👋 Hi, I’m Tan Tran. I'm Java Web Developer. 
 
 <!---
 Tan-Tran/Tan-Tran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
